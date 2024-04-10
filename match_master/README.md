@@ -1,4 +1,7 @@
-# match_master
+# MatchMaster
+A wardrobe management app that also suggests outfits from the clothes you already own
+
+# myapp
 
 A new Flutter project.
 
